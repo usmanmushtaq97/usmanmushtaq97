@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Usman Mushtaq</h1>
-<h3 align="center">I'm Senior Native Android | Flutter Dev & Software Engineer</h3>
+<h3 align="center">I'm Native Android | Flutter Dev & Software Engineer</h3>
 
 - 📫 How to reach me **usmanmushtaq197@gmail.com**
 
